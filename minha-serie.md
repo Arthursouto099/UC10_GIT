@@ -59,7 +59,7 @@ A história acompanha **Sung Jin-Woo**, um caçador de nível extremamente baixo
 
 ---
 
-![Imagem do Goat](caminho/para/imagem.jpg)
+![Imagem do Goat](/maxresdefault.jpg)
 
 ## 🎥 Onde Assistir
 
